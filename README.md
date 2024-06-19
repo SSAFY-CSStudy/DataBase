@@ -10,7 +10,7 @@
     - 교재: MS SQL Server 기반 데이터베이스 배움터 (홍의경 저)
     - 강의: 이화여자대학 용환승 교수님 강의 활용
     - 참고 자료: 
-       - [이화여자대학교 네트워크 kocw](http://kocw.net/home/search/kemView.do?kemId=1064626&ar=relateCourse)
+       - [이화여자대학교 DB kocw](http://kocw.net/home/search/kemView.do?kemId=1064626&ar=relateCourse)
     - 기본적인 sql 이론 부분은 건너뛰고, DB설계 부터 NoSQL 학습 진행 
 
 <br/><br/>
